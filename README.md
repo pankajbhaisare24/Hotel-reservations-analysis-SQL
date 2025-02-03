@@ -1,4 +1,4 @@
-# SQL Queries Documentation
+# HOTEL RESERVATIONS ANALYSIS USING SQL 
 
 This repository contains a collection of SQL queries used for analyzing data from a hotel reservations dataset. Below are the questions and their respective SQL solutions, along with detailed explanations, results, and insights derived from the data.
 
